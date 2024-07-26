@@ -1,0 +1,26 @@
+#root {
+  height: 95dvh;
+  width: 95vw;
+  background: rgb(247, 246, 244);
+  padding: 0;
+  margin: auto;
+  align-content: center;
+}
+.mainBox {
+  display: flex;
+  flex-wrap: wrap;
+  width: 20rem;
+  margin: auto;
+}
+.colorBox {
+  height: 4rem;
+  width: 4rem;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.text {
+  color: goldenrod;
+  text-align: center;
+  margin: 0;
+}
